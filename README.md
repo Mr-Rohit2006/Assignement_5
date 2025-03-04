@@ -1,3 +1,6 @@
+                TASK_1
+
+
 Student Marks Lookup
 
 Description
@@ -33,6 +36,50 @@ Notes
 
 You can modify the student_marks dictionary to include additional students and their marks.
 The program performs a case-sensitive lookup; ensure that the input matches the stored names exactly.
+
+License
+
+This project is open-source and available for modification and distribution.
+
+
+
+                            TASK_2
+
+List Manipulation Example
+
+Description
+
+This Python script demonstrates basic list operations, including extracting a subset of elements and reversing them.
+
+How It Works
+
+The script defines a list numbers containing integers from 1 to 10.
+It extracts the first five elements from the list.
+It then reverses the extracted list.
+Finally, it prints the original list, the extracted elements, and the reversed extracted elements.
+
+Usage
+
+Run the script in a Python environment.
+Observe the printed output, which includes:
+The original list.
+The first five extracted elements.
+The reversed extracted elements.
+
+Example Output
+
+Original list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+Extracted first five elements: [1, 2, 3, 4, 5]
+Reversed extracted elements: [5, 4, 3, 2, 1]
+
+Requirements
+
+Python 3.x
+
+Notes
+
+You can modify the range to extract a different subset of elements.
+The slicing and reversing operations showcase basic list manipulations in Python.
 
 License
 
